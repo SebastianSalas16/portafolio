@@ -1,0 +1,36 @@
+/*
+    Andre Sebastian Vizcarra Salas 2AMPR 
+    PORTAFOLIO ISSI
+*/
+
+body {
+    background-color: bisque;
+}
+
+.indexImg {
+    text-align: left;
+}
+
+.indexNames {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10em;
+    padding-right: 15em;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.indexTable {
+    text-align: center;
+}
+
+a {
+    color: rgb(255, 151, 16);
+}
+
+a:hover {
+    color: blue;
+}
